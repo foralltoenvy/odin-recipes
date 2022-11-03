@@ -1,4 +1,6 @@
-img {
+/* Main rules go here */
+
+.header-photo {
     height: 200px;
     width: auto;
 }
